@@ -8,6 +8,7 @@ Our paper introduces MASTERKEY, a framework exploring the dynamics of jailbreak 
 
 ## Table of Contents
 - [Citation](#citation)
+- [Evaluation Dataset](#evaluation-dataset)
 - [How to Use](#how-to-use)
   - [Setup](#setup)
   - [Usage](#usage)
@@ -20,6 +21,20 @@ You can cite us using the following BibTeX entry:
   author={Deng, Gelei and Liu, Yi and Li, Yuekang and Wang, Kailong and Zhang, Ying and Li, Zefeng and Wang, Haoyu and Zhang, Tianwei and Liu, Yang},
   booktitle={Proc. ISOC NDSS},
   year={2024}
+}
+```
+
+## Evaluation Dataset
+You can refer to the paper [Jailbreaking ChatGPT via Prompt Engineering: An Empirical Study](https://arxiv.org/abs/2305.13860) for your dataset.
+
+To cite the dataset, you can use the following BibTeX entry:
+```bibtex
+@misc{liu2024jailbreaking,
+      title={Jailbreaking ChatGPT via Prompt Engineering: An Empirical Study}, 
+      author={Yi Liu and Gelei Deng and Zhengzi Xu and Yuekang Li and Yaowen Zheng and Ying Zhang and Lida Zhao and Tianwei Zhang and Kailong Wang and Yang Liu},
+      year={2024},
+      eprint={2305.13860},
+      archivePrefix={arXiv},
 }
 ```
 
